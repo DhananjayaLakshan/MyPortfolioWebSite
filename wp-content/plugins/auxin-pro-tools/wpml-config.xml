@@ -1,0 +1,67 @@
+<wpml-config>
+
+  <elementor-widgets>
+      <widget name="aux_3d_textbox">
+          <conditions>
+              <condition key="widgetType">aux_3d_textbox</condition>
+          </conditions>
+          <fields>
+              <field type="3D text box: Title" editor_type="LINE">title</field>
+              <field type="3D text box: Subtitle" editor_type="LINE">subtitle</field>
+          </fields>
+      </widget>
+
+      <widget name="aux_flex_label">
+          <conditions>
+              <condition key="widgetType">aux_flex_label</condition>
+          </conditions>
+          <fields>
+              <field type="Custom Label: Label" editor_type="LINE">label</field>
+          </fields>
+          <fields-in-item items_of="child_list">
+              <field type="Custom Label: Text" editor_type="LINE">child_text</field>
+          </fields-in-item>
+      </widget>
+
+      <widget name="aux_domain_checker">
+          <conditions>
+              <condition key="widgetType">aux_domain_checker</condition>
+          </conditions>
+          <fields>
+              <field type="Domain Checker: Text" editor_type="LINE">button_text</field>
+              <field type="Domain Checker: Placeholder" editor_type="LINE">palceholder_text</field>
+          </fields>
+      </widget>
+
+      <widget name="aux_progressbar">
+          <conditions>
+              <condition key="widgetType">aux_progressbar</condition>
+          </conditions>
+          <fields>
+              <field type="Progressbar: Text" editor_type="LINE">prog_text</field>
+          </fields>
+      </widget>
+
+      <widget name="aux_weather">
+          <conditions>
+              <condition key="widgetType">aux_weather</condition>
+          </conditions>
+          <fields>
+              <field type="Weather: City Name" editor_type="LINE">city_name</field>
+          </fields>
+      </widget>
+
+      <widget name="aux_price_list">
+          <conditions>
+              <condition key="widgetType">aux_price_list</condition>
+          </conditions>
+          <fields-in-item items_of="list">
+              <field type="Price List: Text" editor_type="LINE">text_primary</field>
+              <field type="Price List: Price" editor_type="LINE">text_secondary</field>
+              <field type="Price List: Description" editor_type="VISUAL">description</field>
+              <field type="Price List: Link" editor_type="LINK">link</field>
+          </fields-in-item>
+      </widget>
+  </elementor-widgets>
+
+</wpml-config>

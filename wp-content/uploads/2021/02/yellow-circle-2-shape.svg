@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="336" height="336" viewBox="0 0 336 336">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fecd1a"/>
+      <stop offset="1" stop-color="#ffaf29" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="yellow_circle_2_-_shape" data-name="yellow circle 2 - shape" d="M168,0a168.045,168.045,0,0,0-65.394,322.8A168.044,168.044,0,0,0,233.394,13.2,166.95,166.95,0,0,0,168,0Zm0,276.388A108.387,108.387,0,1,1,276.386,168,108.511,108.511,0,0,1,168,276.388Z" transform="translate(336 336) rotate(180)" opacity="0.8" fill="url(#linear-gradient)"/>
+</svg>

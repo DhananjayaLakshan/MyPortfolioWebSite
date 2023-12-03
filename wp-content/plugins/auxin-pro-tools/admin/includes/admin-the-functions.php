@@ -1,0 +1,2 @@
+<?php 
+// admin related functions

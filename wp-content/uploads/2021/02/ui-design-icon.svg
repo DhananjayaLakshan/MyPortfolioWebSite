@@ -1,0 +1,11 @@
+<svg id="ui_design_-_icon" data-name="ui design - icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#64f4ab"/>
+      <stop offset="1" stop-color="#327a56"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_111" data-name="Group 111" transform="translate(0 0)">
+    <path id="Path_65" data-name="Path 65" d="M37,18.5a1.084,1.084,0,0,0-.515-.92l-3.76-2.318,3.764-2.343a1.084,1.084,0,0,0,0-1.839L19.076.165a1.084,1.084,0,0,0-1.151,0L.508,11.077a1.084,1.084,0,0,0,0,1.839L4.25,15.243.509,17.581a1.084,1.084,0,0,0,0,1.84L4.25,21.747.509,24.085a1.084,1.084,0,0,0,0,1.838L17.924,36.835a1.084,1.084,0,0,0,1.151,0L36.491,25.923a1.084,1.084,0,0,0-.007-1.841l-3.76-2.318,3.764-2.343A1.084,1.084,0,0,0,37,18.5ZM3.13,11.993,18.5,2.363l15.369,9.63L18.5,21.559ZM33.862,25.011,18.5,34.637,3.127,25.005,6.3,23.023,17.927,30.26a1.084,1.084,0,0,0,1.146,0l11.6-7.217ZM18.5,28.063,3.132,18.5,6.3,16.519l11.628,7.237a1.084,1.084,0,0,0,1.146,0l11.6-7.217L33.857,18.5Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
